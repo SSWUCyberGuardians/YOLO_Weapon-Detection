@@ -1,0 +1,6 @@
+path: '/content/gdrive/MyDrive/Colab_Notebooks/NEW_KCI_YOLOV8_1/ObjectDetection/combined_data'
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+names:
+  0: Person
+  1: Weapon
