@@ -5,9 +5,5 @@
 또한, 실제 환경과 CCTV 영상 사이에 존재하는 차이에 주목했다.‘CCTV 영상 내 무기 소지자 캡쳐본’ 사진 데이터셋을 추가로 활용하여 학습을 진행해 2차원 비디오 내에서 무기 소지자를 보다 정확하게 탐지할 수 있는 방법론을 개발했다. 
 
 <h3>Demo</h3>
-![chatgpt4_output](https://github.com/user-attachments/assets/3dd810f2-2c49-4eb8-8ad9-4d9e80076f62)
-![chatgpt5 output](https://github.com/user-attachments/assets/83486e1a-0f8c-46d0-9287-1c2eb1420862)
-
-
 <img width="80%" src="{https://github.com/user-attachments/assets/3dd810f2-2c49-4eb8-8ad9-4d9e80076f62}"/>
 <img width="80%" src="{https://github.com/user-attachments/assets/83486e1a-0f8c-46d0-9287-1c2eb1420862}"/>
