@@ -19,4 +19,12 @@
 ## III. Best Model Validation Result
 <img width="100%" alt="Validation Result" src="https://github.com/user-attachments/assets/e756121b-d5e7-41b4-873d-63a2e59033c3"/>
 
+---
+## IV. Dataset
+- 'Weapon Dataset'과 'Person Dataset'은 주로 Roboflow에서 제공하는 이미지 데이터를 활용하여 합쳤고, 일부는 Open Images V7 에서 무작위로 선별한 데이터를 사용하여 데이터셋을 구축하였습니다.
+-  Weapon Dataset은 칼, 배 트, 권총, 총기가 Weapon으로 포함되어 있으며, 사람도 하나의 카테고리로 분류해 {person : 0, weapon : 1}로 라벨링 하였다.
+    - test dataset : 301
+    - train dataset : 1211
+    - val dataset : 103
+ 
 
