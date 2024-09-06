@@ -18,7 +18,7 @@
 
 ## III. Best Model Validation Result
 <img width="100%" alt="Validation Result" src="https://github.com/user-attachments/assets/e756121b-d5e7-41b4-873d-63a2e59033c3"/>
-
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/03a79acd-b373-4ae3-91d6-03e60b7e76a0">
 ---
 ## IV. Dataset
 - 'Weapon Dataset'과 'Person Dataset'은 주로 Roboflow에서 제공하는 이미지 데이터를 활용하여 합쳤고, 일부는 Open Images V7 에서 무작위로 선별한 데이터를 사용하여 데이터셋을 구축하였습니다.
@@ -28,6 +28,5 @@
     - val dataset : 103
 
  ---
- ### Result of Object Detection
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/03a79acd-b373-4ae3-91d6-03e60b7e76a0">
+
 
