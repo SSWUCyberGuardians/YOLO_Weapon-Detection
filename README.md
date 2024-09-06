@@ -9,3 +9,5 @@
 ![chatgpt5 output](https://github.com/user-attachments/assets/83486e1a-0f8c-46d0-9287-1c2eb1420862)
 
 
+<img width="80%" src="{https://github.com/user-attachments/assets/3dd810f2-2c49-4eb8-8ad9-4d9e80076f62}"/>
+<img width="80%" src="{https://github.com/user-attachments/assets/83486e1a-0f8c-46d0-9287-1c2eb1420862}"/>
